@@ -19,4 +19,4 @@ results = model("path/to/image.jpg")  # Predict on an image
 results[0].show()  # Display results
 
 # Export the model to ONNX format for deployment
-path = model.export(format="onnx")  # Returns the path to the exported model
+path = model.export(format="pt")  # Returns the path to the exported model
