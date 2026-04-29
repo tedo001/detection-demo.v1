@@ -26,3 +26,4 @@ You can use Ultralytics YOLO directly from the Command Line Interface (CLI) with
 ---------------------------------------------------------------------------------
 The yolo command supports various tasks and modes, accepting additional arguments like imgsz=640. Explore the YOLO CLI Docs for more examples.
  
+coco8 dataset:download: https://github.com/ultralytics/assets/releases/download/v0.0.0/coco8.zip
